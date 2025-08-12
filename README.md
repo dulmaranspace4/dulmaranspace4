@@ -1,16 +1,16 @@
-# Introduction
-Bonjour ! Je suis **dulmaranspace4**, un développeur passionné par la technologie et l'innovation. J'aime créer des applications qui rendent la vie plus facile et plus amusante.
+# dulmaranspace4
 
-# Skills
-- **Langages** : JavaScript, Python, HTML, CSS
-- **Frameworks** : React, Node.js, Django
-- **Outils** : Git, Docker, Visual Studio Code
+**Theme:** web-development
 
-# Projects
-- [MonApplication](https://github.com/dulmaranspace4/MonApplication) : Une application web pour gérer les tâches.
-- [EspaceExplorer](https://github.com/dulmaranspace4/EspaceExplorer) : Un projet éducatif sur l'exploration spatiale.
+## About
+Focused on web-development.
 
-# Contacts
-Vous pouvez me joindre via :  
-- **Email** : dulmaranspace4@example.com  
-- **LinkedIn** : [dulmaranspace4](https://www.linkedin.com/in/dulmaranspace4)
+## Tech
+- Python · Git · CI/CD
+- - web
+- frontend
+- backend
+- react
+
+## Links
+- Profile: https://github.com/dulmaranspace4
